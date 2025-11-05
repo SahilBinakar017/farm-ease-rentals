@@ -20,7 +20,7 @@ export default function Footer() {
           <p>
             🌐{" "}
             <a
-              href="https://github.com/your-github-username/smartfarm"
+              href="https://github.com/SahilBinakar017/"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
