@@ -8,7 +8,7 @@ import joblib
 
 # Load the dataset
 df = pd.read_csv("synthetic_farm_rentals.csv")
-print("✅ Data loaded successfully!")
+print("Data loaded successfully!")
 print(df.head())
 
 # Define features and target
